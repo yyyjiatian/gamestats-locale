@@ -31,7 +31,7 @@ msgid "Available languages: [{languages}]"
 msgstr "可用的语言[{languages}]"
 
 msgid "Check your DMs"
-msgstr ""
+msgstr "检查您的私信"
 
 msgid ""
 "Click the below icons to join/leave that group:\n"
@@ -155,10 +155,10 @@ msgid "You don't have any accounts on your profile, add some!"
 msgstr ""
 
 msgid "You have already registered {account}"
-msgstr ""
+msgstr "您已经注册了 {account}"
 
 msgid "You have not yet set up a profile, do {prefix}profile to get started."
-msgstr ""
+msgstr "您尚未设置配置文件，请执行 {prefix} 配置文件以开始"
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "你需要一个{game}帐号,请输入{prefix}和{game_key}"
@@ -194,5 +194,5 @@ msgid "{user}'s Home Base"
 msgstr ""
 
 #~ msgid "Please enter your account name for {game}:"
-#~ msgstr ""
+#~ msgstr "请输入您的 {game} 名称: "
 
